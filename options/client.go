@@ -4,10 +4,10 @@ import (
 	"context"
 	"encoding/json"
 
-	finance "github.com/piquette/finance-go"
-	"github.com/piquette/finance-go/datetime"
-	form "github.com/piquette/finance-go/form"
-	"github.com/piquette/finance-go/iter"
+	finance "github.com/sunglim/yh-finance-go"
+	"github.com/sunglim/yh-finance-go/datetime"
+	form "github.com/sunglim/yh-finance-go/form"
+	"github.com/sunglim/yh-finance-go/iter"
 )
 
 // Client is used to invoke options APIs.
